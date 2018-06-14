@@ -1,3 +1,3 @@
 package cubex.mahesh.gsontest
 
-data class Employees(var employees:List<Employee>)
+data class Employees(var employees:MutableList<Employee>)
